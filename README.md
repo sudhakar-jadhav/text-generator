@@ -1,3 +1,6 @@
+**Description**
+It is a project built in react where this app generates a text based on the number of paragraphs and tags given, and can also be copied to clipboard.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
